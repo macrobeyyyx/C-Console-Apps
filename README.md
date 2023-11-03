@@ -4,8 +4,7 @@ Merhaba Değerli Geliştiriciler! Bu projede, C konsol uygulamalarınızı tanı
 
 ## Gereksinimler
 
-- Java JDK 3.3 veya daha yeni sürümü
-- IDE (tercihinize göre bir editör)
+- C Derleyici (tercihinize göre bir Derleyici)
 
 ## Projeler
 
